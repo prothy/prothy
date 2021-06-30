@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Prothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=prothy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **prothy/prothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
